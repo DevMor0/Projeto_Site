@@ -7,4 +7,4 @@ Este é um dos meus primeiros projetos no qual criei a tela de um site usando HT
 * 2 - Abra o arquivo index.html.
 
 ## imagens:
-<img src="./uploads/Animação.mp4" height="300" alt="Gif"/>
+<img src="./uploads/Animação.GIF" height="300" alt="Screenshot"/>
